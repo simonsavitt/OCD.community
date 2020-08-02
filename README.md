@@ -9,4 +9,4 @@ Fill out this google form to be added to the directory: https://forms.gle/M5rRFX
 |-----------------|----------------------------------|---------------------------------------------------------|-------------------------------------------------------------------|
 | Lily Bailey     | N/A                              | [@lilybaileyuk](https://twitter.com/lilybaileyuk)       | [@lilybaileyuk](https://twitter.com/lilybaileyuk)                 |
 | Aaron Harvey    | <http://madeofmillions.com>      | [@nuyakcity](https://twitter.com/nuyakcity)             | [@nuyakcity](https://twitter.com/nuyakcity)                       |
-| Rose Cartwright | <https://www.rosecartwright.com> | [@rosecartwright_](https://twitter.com/rosecartwright_) | [@rosecartwright___](https://www.instagram.com/rosecartwright___) |
+| Rose Cartwright | <https://www.rosecartwright.com> | [@rosecartwright_](https://twitter.com/rosecartwright_) | [@rosecartwright__](https://www.instagram.com/rosecartwright___) |
