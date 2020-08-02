@@ -1,5 +1,5 @@
 Fill out this [google form](https://forms.gle/M5rRFXq843Ep9NvF7) to be added to the directory!
-<br>You can view the current database [here](https://tinyurl.com/ocdcommunitygooglesheet).
+<br>You can view the current "database" [here](https://tinyurl.com/ocdcommunitygooglesheet).
 <br><br>Hi everyone! I'm still working on the basic setup of this website.
 <br>If you have any questions, feel free to email me at <simonsavitt@gmail.com>.
 <br>You can apply to become an [OCDvocate](https://iocdf.org/get-involved/ocdvocate/)!
