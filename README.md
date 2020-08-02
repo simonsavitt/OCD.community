@@ -13,3 +13,5 @@ Fill out this [google form](https://forms.gle/M5rRFXq843Ep9NvF7) to be added to 
 
 <br><br>I would like to organize a list of support groups as well!
 <br>And eventually, even more categorized listings of resources about OCD!
+<br>I'm still figuring out the web development aspect of this, but I promise the end result will look much better!
+<br>If you can offer any advice on that front, please send me an e-mail!
