@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <p id="List"></p>
+    <p id="Food"></p>
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.2.0/papaparse.js"></script>
     <script type="text/javascript">
-      var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTPFDaM2i6e10nbzWAkXMRU3DQ_YdY1M4N2FcpPSg4lpg78VUDPMUE6uz0eh9NTtFNC6jj1cJcszgd_/pubhtml';
+      var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTPFDaM2i6e10nbzWAkXMRU3DQ_YdY1M4N2FcpPSg4lpg78VUDPMUE6uz0eh9NTtFNC6jj1cJcszgd_/pub?output=csv';
 
       function init() {
         Papa.parse(public_spreadsheet_url, {
@@ -29,6 +29,6 @@
 
       document.write("The published spreadsheet is located at <a target='_new' href='" + public_spreadsheet_url + "'>" + public_spreadsheet_url + "</a>");        
     </script>
-    <p><strong>This example is only going to work if it's on the internet or on a local server!</strong> To run a local server, run "terminal" or "command prompt" and run the command <code>python -m http.server</code> or <code>python -m SimpleHTTPServer</code> (whichever one works, really, and you might even need to <a href="http://littlecolumns.com/tools/python-wrangler/">install Python</a>). Then visit <a href="http://localhost:8000/">http://localhost:8000</a> and you'll be all set.</p>
+    <p><strong>Test</p>
   </body>
 </html>
